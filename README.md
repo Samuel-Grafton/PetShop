@@ -1,4 +1,4 @@
-# PetShop
+# Pet-Shop
 Mobile Friendly.
 
 Contact Us page allows users to send e-mails to owner via phpmailer.<br>
